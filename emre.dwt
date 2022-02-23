@@ -1,0 +1,27 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Başlıksız Belge</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="stilim.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="kapsayici">
+       <div class="baslik"><a href="#">Ana sayfa</a></div>    
+       <div class="baslik"><a href="../ürünlerimiz.html">Ürünlerimiz</a></div>  
+       <div class="baslik"><a href="../referanslarımız.html">Referanslar</a></div>    
+       <div class="baslik"><a href="../hakkında.html">hakkında</a></div>  
+    </div> 
+    
+<div class="orta">
+        <h1>İkinci Şablon Sistem</h1>
+        <div class="orta2"> </div>
+        <h5><!-- TemplateBeginEditable name="EditRegion3" -->Ana sayfam<!-- TemplateEndEditable --></h5>
+</div>
+</body>
+</html>
